@@ -75,7 +75,7 @@ for num in cube_even_7:
 print(sum_even_num_7)
 
 
-'''
+
 for num in cube_lst:
     
     sum_numbers = 0
@@ -93,5 +93,8 @@ sum_num_7 = 0
 # сумма чисел, которые делятся нацело на 7
 for i in range(len(numbers_sum)):
     sum_num_7 += numbers_sum[i]
-'''
+
+
+print(2**2)
+
  
